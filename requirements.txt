@@ -1,0 +1,8 @@
+ipykernel
+pandas 
+numpy
+tensorflow
+keras
+matplotlib
+seaborn
+streamlit
